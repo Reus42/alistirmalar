@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\stack list\bin\Debug\stack list.exe.config
+C:\Users\HP\source\repos\stack list\bin\Debug\stack list.exe
+C:\Users\HP\source\repos\stack list\bin\Debug\stack list.pdb
+C:\Users\HP\source\repos\stack list\obj\Debug\stack list.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\stack list\obj\Debug\stack_list.Form1.resources
+C:\Users\HP\source\repos\stack list\obj\Debug\stack_list.Properties.Resources.resources
+C:\Users\HP\source\repos\stack list\obj\Debug\stack list.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\stack list\obj\Debug\stack list.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\stack list\obj\Debug\stack list.exe
+C:\Users\HP\source\repos\stack list\obj\Debug\stack list.pdb
+C:\Users\HP\source\repos\stack list\obj\Debug\stack_list.Form2.resources
